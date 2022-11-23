@@ -4,4 +4,4 @@
 
 git master edit
 
-promo code : SALE50% | free shipping
+promo code : SALE50% | free shipping 
